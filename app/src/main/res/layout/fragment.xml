@@ -16,7 +16,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="54dp"
         android:adjustViewBounds="true"
-        android:background="#FFFFFF"
+        android:background="@drawable/notfound200"
         android:contentDescription="@+id/RelativeLayout1" />
 
     <TextView
